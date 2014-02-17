@@ -3,7 +3,9 @@
 ![alt text](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash4/463018_281596001934677_452558680_o.jpg "Ezreal")
 
 Note: QT is needed to run this program. Then use Qmake to create the needed executable.
-      Also, look at my other project Moodsic, created at the USC vs UCLA Microsoft Hackathon. As a team of four we created this project and took first place. http://www.devonmeyer.com/projects/moodsic/ 
+      
+
+Also, look at my other project Moodsic, created at the USC vs UCLA Microsoft Hackathon. As a team of four we created this project and took first place. http://www.devonmeyer.com/projects/moodsic/ 
 
 ----
 
